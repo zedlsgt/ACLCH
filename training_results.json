@@ -1,0 +1,30 @@
+[
+    {
+        "dataset": "MS-COCO",
+        "noise_data": 0.2,
+        "img2txt MAP": 0.94787,
+        "txt2img MAP": 0.96726,
+        "MAP": 0.95757
+    },
+    {
+        "dataset": "MS-COCO",
+        "noise_data": 0.4,
+        "img2txt MAP": 0.93522,
+        "txt2img MAP": 0.95235,
+        "MAP": 0.94378
+    },
+    {
+        "dataset": "MS-COCO",
+        "noise_data": 0.6,
+        "img2txt MAP": 0.91783,
+        "txt2img MAP": 0.93863,
+        "MAP": 0.92823
+    },
+    {
+        "dataset": "MS-COCO",
+        "noise_data": 0.8,
+        "img2txt MAP": 0.88917,
+        "txt2img MAP": 0.89541,
+        "MAP": 0.89229
+    }
+]
