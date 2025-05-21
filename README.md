@@ -1,4 +1,4 @@
-# Adaptive-Correlation-Learning-for-Cross-modal-Hashing
+# Adaptive Correlation Learning for Cross-modal Hashing
 
 ### Dependencies
 
